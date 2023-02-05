@@ -4,7 +4,7 @@
 This is a two-part exercise using the min and max functions. There are connections between the cities of Maxime and Miniac with several bridges. 
 There is a separate limit on the amount of weight that can be transported across each bridge.
 
-# Coding Exercise: One Road
+## Coding Exercise: One Road
 For part 1, there is a single road between the two cities. The road has three bridges with weight limits a, b, c, as shown in the picture below:
 
 In order to drive along the route, your truck needs to drive first over the bridge with weight limit a, then the one with weight limit b, 
@@ -16,5 +16,6 @@ Your code should assume that the variables a, b, and c already contain the bridg
 ![one-road cscircle](https://user-images.githubusercontent.com/86063895/216822700-e8155a9c-5eb0-4f06-82d2-055ec0f1333a.png)
 
 
+## Answer
 print(min(a,b,c))
 
