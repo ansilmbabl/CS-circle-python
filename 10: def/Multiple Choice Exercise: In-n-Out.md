@@ -1,10 +1,12 @@
 # Multiple Choice Exercise: In-n-Out
 
+
 What is the output of the following program?
 def f():          # function of 0 arguments
    print("in f")
 print("not in f")
 f()               # call f now
+
 
 # Your choice: 
 2 lines: 'not in f', then 'in f'
