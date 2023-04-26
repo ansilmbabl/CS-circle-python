@@ -5,32 +5,34 @@ For your convenience, we will pre-define the variable letterGoodness for you, a 
     letterGoodness = [.0817,.0149,.0278,.0425,.1270,.0223,.0202,...
 
 # Answer
-    def dc(S,shift):
-       x =""
-       for i in S:
-          if i.isalpha():
-              position = ord(i)-shift
-              if position<65:
-                   position+=26
-              x += chr(position)
-          else:
-             x+=i
-       return x
+```python
+def dc(S,shift):
+   x =""
+   for i in S:
+      if i.isalpha():
+          position = ord(i)-shift
+          if position<65:
+               position+=26
+          x += chr(position)
+      else:
+         x+=i
+   return x
 
-    def goodness(S):
-       list = []
-       list_goodness = []
-       for i in range(1,27):
-          decrypted = dc(S,i)
-          list.append(decrypted)
-          goodness = 0
-          for j in decrypted:
-             if j.isalpha():
-                goodness_value = letterGoodness[ord(j)-65]
-                goodness += goodness_value
-          list_goodness.append(goodness)
-       return list[list_goodness.index(max(list_goodness))]
+def goodness(S):
+   list = []
+   list_goodness = []
+   for i in range(1,27):
+      decrypted = dc(S,i)
+      list.append(decrypted)
+      goodness = 0
+      for j in decrypted:
+         if j.isalpha():
+            goodness_value = letterGoodness[ord(j)-65]
+            goodness += goodness_value
+      list_goodness.append(goodness)
+   return list[list_goodness.index(max(list_goodness))]
 
 
-    l =input()
-    print(goodness(l))
+l =input()
+print(goodness(l))
+```
