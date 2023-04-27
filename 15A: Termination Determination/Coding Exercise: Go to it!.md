@@ -5,7 +5,8 @@ Sample input/output: If you call
         findLine(['10 GOTO 20','20 END'], '10')
 then the output should be 0, since item 0 of the list is the line with label 10.
 
-    def findLine(prog, target):
-       for i in prog:
-          if i.startswith(target):
-             return prog.index(i)
+```python
+def findLine(prog, target):
+        for i in prog:
+                if i.startswith(target):
+                        return prog.index(i)
