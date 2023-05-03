@@ -8,7 +8,7 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [1E: Errors](https://github.com/ansilmbabl/CS-circle-python/tree/308ba7dcaa1fe3d56d5550fdec774fb13a88e91a/1E%3A%20Errors)
 
 
-## Using This Website
+## Using The Website (Instructions)
 
 The purpose of this website is to teach the basics of Python programming in a semi-interactive fashion. It contains a series of instructions, mixed with exercises that you can use to test your progress. Anyone can use this website for free. You can [register by creating a free account](https://cscircles.cemc.uwaterloo.ca/wp-login.php?redirect_to=/), if you want to save your progress. You don't need to install anything on your computer to use this website.
 
@@ -30,15 +30,9 @@ Thanks for using our site! Have fun, and [contact us](https://cscircles.cemc.uwa
 
 _[Click here](https://cscircles.cemc.uwaterloo.ca/) to go to the first lesson._
 
-### For teachers
+#### For teachers
 
 *   The teacher should create an account;
 *   then each student should create an account, go to "Edit My Profile" in the user menu at top right, and set the **guru** to be the teacher's account name.
 
 The teacher can receive Help questions from the students (see the [Mail Page](http://cscircles.cemc.uwaterloo.ca/mail/)) and view their progress (see the [My Progress](http://cscircles.cemc.uwaterloo.ca/user-page/) page) within the CS Circles site. If a teacher uses the course over several semesters, they can remove or hide non-current students using the [Manage Students administrative tab](/wp-admin/users.php?page=cscircles-students).
-
-
-*   The teacher should create an account;
-*   then each student should create an account, go to "Edit My Profile" in the user menu at top right, and set the **guru** to be the teacher's account name.
-
-The teacher can receive Help questions from the students (see the [Mail Page](https://cscircles.cemc.uwaterloo.ca/mail/)) and view their progress (see the [My Progress](https://cscircles.cemc.uwaterloo.ca/user-page/) page) within the CS Circles site. If a teacher uses the course over several semesters, they can remove or hide non-current students using the [Manage Students administrative tab](https://htmltomd.com/wp-admin/users.php?page=cscircles-students).
