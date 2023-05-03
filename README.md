@@ -1,4 +1,8 @@
 # CS-circle-python
+![wordmark-uw](https://cscircles.cemc.uwaterloo.ca/wp-content/plugins/pybox/files/wordmark-uw.gif)
+![wordmark-cemc](https://cscircles.cemc.uwaterloo.ca/wp-content/plugins/pybox/files/wordmark-cemc.png)
+![header](https://cscircles.cemc.uwaterloo.ca/wp-content/themes/pybox2011childTheme/images/header.jpg)
+
 This repository contains the activities of python course by Computer Science Circle (University  of Waterloo)<p>
 Link for the course: [python course by Computer Science Circle (University of Waterloo)](https://cscircles.cemc.uwaterloo.ca)
 
