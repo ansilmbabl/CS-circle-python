@@ -9,9 +9,11 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 ## Chapter wise activities
 [0: Hello!](https://github.com/ansilmbabl/CS-circle-python/tree/788ea28a1d28cd129e980c88b13b4363f9065ee9/0%3A%20Hello!)<br>
 [1: Variables](https://github.com/ansilmbabl/CS-circle-python/tree/308ba7dcaa1fe3d56d5550fdec774fb13a88e91a/1%3A%20Variables)<br>
-[1E: Errors](https://github.com/ansilmbabl/CS-circle-python/tree/308ba7dcaa1fe3d56d5550fdec774fb13a88e91a/1E%3A%20Errors)
+[1E: Errors](https://github.com/ansilmbabl/CS-circle-python/tree/308ba7dcaa1fe3d56d5550fdec774fb13a88e91a/1E%3A%20Errors)<br>
+[2: Functions](https://github.com/ansilmbabl/CS-circle-python/tree/master/2:%20Functions)<br>
+[2X: Extra Practice](https://github.com/ansilmbabl/CS-circle-python/tree/master/2X:%20Extra%20Practice)
 
-
+  
 ## Using The Website (Instructions)
 
 The purpose of this website is to teach the basics of Python programming in a semi-interactive fashion. It contains a series of instructions, mixed with exercises that you can use to test your progress. Anyone can use this website for free. You can [register by creating a free account](https://cscircles.cemc.uwaterloo.ca/wp-login.php?redirect_to=/), if you want to save your progress. You don't need to install anything on your computer to use this website.
