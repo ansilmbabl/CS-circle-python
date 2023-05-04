@@ -19,7 +19,11 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [6D: Design, Debugging and Donuts](https://github.com/ansilmbabl/CS-circle-python/tree/master/6D:%20Design%2C%20Debugging%20and%20Donuts)<br>
 [7A: Strings](https://github.com/ansilmbabl/CS-circle-python/tree/master/7A:%20Strings)<br>
 [7B: Math](https://github.com/ansilmbabl/CS-circle-python/tree/master/7B:%20Math)<br>
-  
+[7C: Loops](https://github.com/ansilmbabl/CS-circle-python/tree/master/7C:%20Loops)<br>
+[8: Remix](https://github.com/ansilmbabl/CS-circle-python/tree/master/8:%20Remix)<br>
+[9: Else, And, Or, Not](https://github.com/ansilmbabl/CS-circle-python/tree/master/9:%20Else%2C%20And%2C%20Or%2C%20Not)<br>
+[10: def](https://github.com/ansilmbabl/CS-circle-python/tree/master/10:%20def)<br>
+ 
 
 ## Using The Website (Instructions)
 
