@@ -11,9 +11,16 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [1: Variables](https://github.com/ansilmbabl/CS-circle-python/tree/308ba7dcaa1fe3d56d5550fdec774fb13a88e91a/1%3A%20Variables)<br>
 [1E: Errors](https://github.com/ansilmbabl/CS-circle-python/tree/308ba7dcaa1fe3d56d5550fdec774fb13a88e91a/1E%3A%20Errors)<br>
 [2: Functions](https://github.com/ansilmbabl/CS-circle-python/tree/master/2:%20Functions)<br>
-[2X: Extra Practice](https://github.com/ansilmbabl/CS-circle-python/tree/master/2X:%20Extra%20Practice)
-
+[2X: Extra Practice](https://github.com/ansilmbabl/CS-circle-python/tree/master/2X:%20Extra%20Practice)<br>
+[3: Comments and Quotes](https://github.com/ansilmbabl/CS-circle-python/tree/master/3:%20Comments%20and%20Quotes)<br>
+[4: Types](https://github.com/ansilmbabl/CS-circle-python/tree/master/4:%20Types)<br>
+[5: Input](https://github.com/ansilmbabl/CS-circle-python/tree/master/5:%20Input)<br>
+[6: If](https://github.com/ansilmbabl/CS-circle-python/tree/master/6:%20If)<br>
+[6D: Design, Debugging and Donuts](https://github.com/ansilmbabl/CS-circle-python/tree/master/6D:%20Design%2C%20Debugging%20and%20Donuts)<br>
+[7A: Strings](https://github.com/ansilmbabl/CS-circle-python/tree/master/7A:%20Strings)<br>
+[7B: Math](https://github.com/ansilmbabl/CS-circle-python/tree/master/7B:%20Math)<br>
   
+
 ## Using The Website (Instructions)
 
 The purpose of this website is to teach the basics of Python programming in a semi-interactive fashion. It contains a series of instructions, mixed with exercises that you can use to test your progress. Anyone can use this website for free. You can [register by creating a free account](https://cscircles.cemc.uwaterloo.ca/wp-login.php?redirect_to=/), if you want to save your progress. You don't need to install anything on your computer to use this website.
