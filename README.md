@@ -23,6 +23,8 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [8: Remix](https://github.com/ansilmbabl/CS-circle-python/tree/master/8:%20Remix)<br>
 [9: Else, And, Or, Not](https://github.com/ansilmbabl/CS-circle-python/tree/master/9:%20Else%2C%20And%2C%20Or%2C%20Not)<br>
 [10: def](https://github.com/ansilmbabl/CS-circle-python/tree/master/10:%20def)<br>
+[11A: Lower Case](https://github.com/ansilmbabl/CS-circle-python/tree/master/11A:%20Lower%20Case)<br>
+[11B: Variable Scope](https://github.com/ansilmbabl/CS-circle-python/tree/master/11B:%20Variable%20Scope)<br>
  
 
 ## Using The Website (Instructions)
