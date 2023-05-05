@@ -26,6 +26,7 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [11A: Lower Case](https://github.com/ansilmbabl/CS-circle-python/tree/master/11A:%20Lower%20Case)<br>
 [11B: Variable Scope](https://github.com/ansilmbabl/CS-circle-python/tree/master/11B:%20Variable%20Scope)<br>
 [11C: Geometry](https://github.com/ansilmbabl/CS-circle-python/tree/master/11C:%20Geometry)<br>
+[12: Tips](https://github.com/ansilmbabl/CS-circle-python/tree/master/12:%20Tips)<br>
  
 
 ## Using The Website (Instructions)
