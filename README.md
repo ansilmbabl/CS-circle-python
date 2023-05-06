@@ -29,6 +29,8 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [12: Tips](https://github.com/ansilmbabl/CS-circle-python/tree/master/12:%20Tips)<br>
 [13: Lists (Arrays)](https://github.com/ansilmbabl/CS-circle-python/tree/master/13:%20Lists%20(Arrays))<br>
 [14: Methods](https://github.com/ansilmbabl/CS-circle-python/tree/master/14:%20Methods)<br>
+[15A: Termination Determination](https://github.com/ansilmbabl/CS-circle-python/tree/master/15A:%20Termination%20Determination)<br>
+[]()<br>
  
 
 ## Using The Website (Instructions)
