@@ -27,6 +27,8 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [11B: Variable Scope](https://github.com/ansilmbabl/CS-circle-python/tree/master/11B:%20Variable%20Scope)<br>
 [11C: Geometry](https://github.com/ansilmbabl/CS-circle-python/tree/master/11C:%20Geometry)<br>
 [12: Tips](https://github.com/ansilmbabl/CS-circle-python/tree/master/12:%20Tips)<br>
+[13: Lists (Arrays)](https://github.com/ansilmbabl/CS-circle-python/tree/master/13:%20Lists%20(Arrays))<br>
+[14: Methods](https://github.com/ansilmbabl/CS-circle-python/tree/master/14:%20Methods)<br>
  
 
 ## Using The Website (Instructions)
