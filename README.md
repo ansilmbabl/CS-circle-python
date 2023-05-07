@@ -33,6 +33,7 @@ Link for the course: [python course by Computer Science Circle (University of Wa
 [15B: Python Pushups](https://github.com/ansilmbabl/CS-circle-python/tree/master/15B:%20Python%20Pushups)<br>
 [15C: Caesar's JVTIVK JRCRU IVTZGV](https://github.com/ansilmbabl/CS-circle-python/tree/master/15C:%20Caesar's%20JVTIVK%20JRCRU%20IVTZGV)<br>
 [16: Recursion](https://github.com/ansilmbabl/CS-circle-python/tree/master/16:%20Recursion)<br>
+[17: Is](https://github.com/ansilmbabl/CS-circle-python/tree/master/17:%20Is)<br>
  
 
 ## Using The Website (Instructions)
