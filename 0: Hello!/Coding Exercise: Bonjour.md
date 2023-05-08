@@ -3,7 +3,15 @@ Write a program which prints
 
     " Bonjour, tout le monde! "
   
-(Hint: if you get stuck, copy the [first program](https://github.com/ansilmbabl/CS-circle-python/blob/master/0%3A%20Hello!/first%20programme.md) above and then edit it.)
+<details><summary>
+first program
+</summary>
+    
+   ![image](https://user-images.githubusercontent.com/86063895/236759038-d56167b1-e8ff-418c-adcc-3578c240547d.png)
+  
+</details>
+
+(Hint: if you get stuck, copy the `first program` above and then edit it.)
 
 ## Answer
 ```python
