@@ -1,12 +1,12 @@
 # Multiple Choice Exercise: Inner and Outer
 What is the output of the following program?
-
-    x = "outer"
-    def xReplace(value):
-       x = value
-    xReplace("inner")
-    print(x)
-
+```PYTHON
+x = "outer"
+def xReplace(value):
+   x = value
+xReplace("inner")
+print(x)
+```
 # Your choice: 
     outer
 
