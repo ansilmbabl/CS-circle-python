@@ -1,8 +1,9 @@
-"""
-Coding Exercise: BASIC Simulator
+# Coding Exercise: BASIC Simulator
 Put together your BASIC simulator.
-"""
 
+## Answer
+```python
+# def getBASIC from subtask 1
 def getBASIC():
    stringl = []
    while True:
