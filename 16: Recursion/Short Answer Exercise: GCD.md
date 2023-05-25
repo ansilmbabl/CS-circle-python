@@ -6,6 +6,8 @@ def gcd(a, b):
   return gcd(b, a % b)
 print(gcd(20, 12))
 ```
-# Your answer (enter a number): 
-    4
+## Answer
+```
+(enter a number): 4
+```
 This remarkably short program computes the greatest common divisor of two numbers. This is known as the Euclidean Algorithm, one of the oldest known algorithms.
