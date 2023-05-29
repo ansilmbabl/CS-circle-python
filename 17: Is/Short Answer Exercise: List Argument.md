@@ -9,7 +9,7 @@ func(data)
 print(data[0]*data[1])
 ```
 
-# Answer
+## Answer
 Your answer (enter a number): 
 
     77
