@@ -1,7 +1,7 @@
 # Scramble Exercise: Fast Fibonacci
 Unscramble the fast version to compute larger Fibonacci values.
 
-# Answer 
+## Answer 
 ```python
 def Fibonacci(n):
     sequence = [0, 1, 1]  # Fibonacci(0) is 0, Fibonacci(1) and Fibonacci(2) are 1
